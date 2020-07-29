@@ -1,8 +1,8 @@
 # Frond-End and JavaScript Projects
 
-- [Dad Joke App](https://mariyalcs.github.io/dad-joke/) - https://github.com/MariyaLcs/dad-joke - Built with React, express, axios, API with icanhazdadjoke.com
+- [Dad Joke App Site](https://mariyalcs.github.io/dad-joke/) - [Dad Joke App Repo](https://github.com/MariyaLcs/dad-joke) - Built with React, express, axios, API with icanhazdadjoke.com
 - [Delivery App](https://mariyalcs.github.io/delivery/) - Built with React, Bootstrap4, moment, axios.
-- [Movie Fight](https://mariyalcs.github.io/movie_battle/) - Built with React, axios, API with omdbapi
+- [Movie Fight](https://mariyalcs.github.io/movie_battle/) - Built with React, axios, API with omdbapi.com
 - [Simon Game](https://mariyalcs.github.io/Simon-Game/) - Built with JavaScript and jQuery
 
 # Full-Stack Projects
