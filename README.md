@@ -42,5 +42,11 @@
 - [The Advanced Web Developer Bootcamp](https://www.udemy.com/certificate/UC-cef3f5f9-87b9-44dd-904b-1b4ad52ca316/) Udemy July 2020
 - [Ultimate AWS Certified Cloud Practitioner - 2020](https://www.udemy.com/certificate/UC-c832779c-b806-4bbf-96be-10c9068952ed/) Udemy June 2020
 - [ The Web Developer Bootcamp](https://www.udemy.com/certificate/UC-849e4955-b981-474f-b047-90040fab08ca/) Udemy February 2020
+
 - [PHP OOP: Object Oriented Programming for beginners + Project](https://www.udemy.com/certificate/UC-K893H5WS/) Udemy November 2019
 - [SDET Training: Selenium WebDriver, Java Project & Code Tests](https://www.udemy.com/certificate/UC-WKPJP1F8/) Udemy May 2019
+
+- [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/verify/MLJNRKGEZW2S) Coursera August 2018
+- [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/FCUD8KRYTLW7) Coursera July 2018
+
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/B6L9YYPKSJXA) Coursera November 2017
