@@ -6,6 +6,11 @@
 
 - [Simon Game Site](https://mariyalcs.github.io/Simon-Game/) - Built with JavaScript and jQuery
 - [Drum Site](https://mariyalcs.github.io/drum/) - [Drum Repo](https://github.com/MariyaLcs/drum) - Built with JavaScript
+- [Dice Game Site](https://mariyalcs.github.io/dice-game/) - [Dice Game Repo](https://github.com/MariyaLcs/dice-game) - Built with JavaScript
+- [Rock Paper Scissors Site](https://mariyalcs.github.io/rock-paper-scissors/) - [Rock Paper Scissors Repo](https://github.com/MariyaLcs/rock-paper-scissors) - Built with JavaScript
+- [Secret Message Site](https://mariyalcs.github.io/secret_message/) - [Secret Message Repo](https://github.com/MariyaLcs/secret_message) - Built with JavaScript
+- [Maze Game Site](https://mariyalcs.github.io/maze_game/) - [Maze Game Repo](https://github.com/MariyaLcs/maze_game) - Built with JavaScript and MatterJS
+- [Color Game Site](https://mariyalcs.github.io/color_game/) - [Color Game Repo](https://github.com/MariyaLcs/color_game) - Built with JavaScript
 
 # Full-Stack Projects
 
