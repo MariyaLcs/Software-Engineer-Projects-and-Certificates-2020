@@ -4,6 +4,6 @@
 
 # Full-Stack Projects
 
-- [Newsletter-Signup](https://boiling-anchorage-40172.herokuapp.com/) - Built with mailchimp, MongoDB, express, bodyParser
+- [Newsletter-Signup](https://boiling-anchorage-40172.herokuapp.com/) - Built with mailchimp, Heroku, express, bodyParser
 
 # Sertificates
