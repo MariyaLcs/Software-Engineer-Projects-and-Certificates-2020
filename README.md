@@ -1,3 +1,17 @@
+# Certificates
+
+- [The Advanced Web Developer Bootcamp](https://www.udemy.com/certificate/UC-cef3f5f9-87b9-44dd-904b-1b4ad52ca316/) Udemy July 2020
+- [Ultimate AWS Certified Cloud Practitioner - 2020](https://www.udemy.com/certificate/UC-c832779c-b806-4bbf-96be-10c9068952ed/) Udemy June 2020
+- [ The Web Developer Bootcamp](https://www.udemy.com/certificate/UC-849e4955-b981-474f-b047-90040fab08ca/) Udemy February 2020
+
+- [PHP OOP: Object Oriented Programming for beginners + Project](https://www.udemy.com/certificate/UC-K893H5WS/) Udemy November 2019
+- [SDET Training: Selenium WebDriver, Java Project & Code Tests](https://www.udemy.com/certificate/UC-WKPJP1F8/) Udemy May 2019
+
+- [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/verify/MLJNRKGEZW2S) Coursera August 2018
+- [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/FCUD8KRYTLW7) Coursera July 2018
+
+- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/B6L9YYPKSJXA) Coursera November 2017
+
 # Frond-End and JavaScript Projects
 
 - [Dad Joke App Site](https://mariyalcs.github.io/dad-joke/) - [Dad Joke App Repo](https://github.com/MariyaLcs/dad-joke) - Built with React, express, axios, API with icanhazdadjoke.com
@@ -7,14 +21,14 @@
 - [Hangman Game Site](https://mariyalcs.github.io/hangman/) - [Hangman Game Repo](https://github.com/MariyaLcs/hangman) - Built with React and JavaScript
 - [Lights Out Game Site](https://mariyalcs.github.io/lights_out/) - [Lights Out Game Repo](https://github.com/MariyaLcs/lights_out/) - Built with React and JavaScript
 
-- [Simon Game Site](https://mariyalcs.github.io/Simon-Game/) - [Simon Game Repo](https://github.com/MariyaLcs/Simon-Game) - Built with JavaScript and jQuery
-- [ToDo Site](https://mariyalcs.github.io/Todo_List/) - [ToDo Repo](https://github.com/MariyaLcs/Todo_List) - Built with JavaScript and jQuery
-- [Drum Site](https://mariyalcs.github.io/drum/) - [Drum Repo](https://github.com/MariyaLcs/drum) - Built with JavaScript
-- [Dice Game Site](https://mariyalcs.github.io/dice-game/) - [Dice Game Repo](https://github.com/MariyaLcs/dice-game) - Built with JavaScript
-- [Rock Paper Scissors Site](https://mariyalcs.github.io/rock-paper-scissors/) - [Rock Paper Scissors Repo](https://github.com/MariyaLcs/rock-paper-scissors) - Built with JavaScript
-- [Secret Message Site](https://mariyalcs.github.io/secret_message/) - [Secret Message Repo](https://github.com/MariyaLcs/secret_message) - Built with JavaScript
-- [Maze Game Site](https://mariyalcs.github.io/maze_game/) - [Maze Game Repo](https://github.com/MariyaLcs/maze_game) - Built with JavaScript and MatterJS
-- [Color Game Site](https://mariyalcs.github.io/color_game/) - [Color Game Repo](https://github.com/MariyaLcs/color_game) - Built with JavaScript
+* [Simon Game Site](https://mariyalcs.github.io/Simon-Game/) - [Simon Game Repo](https://github.com/MariyaLcs/Simon-Game) - Built with JavaScript and jQuery
+* [ToDo Site](https://mariyalcs.github.io/Todo_List/) - [ToDo Repo](https://github.com/MariyaLcs/Todo_List) - Built with JavaScript and jQuery
+* [Drum Site](https://mariyalcs.github.io/drum/) - [Drum Repo](https://github.com/MariyaLcs/drum) - Built with JavaScript
+* [Dice Game Site](https://mariyalcs.github.io/dice-game/) - [Dice Game Repo](https://github.com/MariyaLcs/dice-game) - Built with JavaScript
+* [Rock Paper Scissors Site](https://mariyalcs.github.io/rock-paper-scissors/) - [Rock Paper Scissors Repo](https://github.com/MariyaLcs/rock-paper-scissors) - Built with JavaScript
+* [Secret Message Site](https://mariyalcs.github.io/secret_message/) - [Secret Message Repo](https://github.com/MariyaLcs/secret_message) - Built with JavaScript
+* [Maze Game Site](https://mariyalcs.github.io/maze_game/) - [Maze Game Repo](https://github.com/MariyaLcs/maze_game) - Built with JavaScript and MatterJS
+* [Color Game Site](https://mariyalcs.github.io/color_game/) - [Color Game Repo](https://github.com/MariyaLcs/color_game) - Built with JavaScript
 
 # Full-Stack Projects
 
@@ -36,17 +50,3 @@
 - [Coffee Lab Site](https://mariyalcs.github.io/coffee-lab/) - [Coffee Lab Repo](https://github.com/MariyaLcs/coffee-lab) - Built with Bootstrap 4
 
 - [Mountain Travel Site](https://mariyalcs.github.io/mountain_travel/) - [Mountain Travel Repo](https://github.com/MariyaLcs/mountain_travel) - Built with HTML and CSS
-
-# Certificates
-
-- [The Advanced Web Developer Bootcamp](https://www.udemy.com/certificate/UC-cef3f5f9-87b9-44dd-904b-1b4ad52ca316/) Udemy July 2020
-- [Ultimate AWS Certified Cloud Practitioner - 2020](https://www.udemy.com/certificate/UC-c832779c-b806-4bbf-96be-10c9068952ed/) Udemy June 2020
-- [ The Web Developer Bootcamp](https://www.udemy.com/certificate/UC-849e4955-b981-474f-b047-90040fab08ca/) Udemy February 2020
-
-- [PHP OOP: Object Oriented Programming for beginners + Project](https://www.udemy.com/certificate/UC-K893H5WS/) Udemy November 2019
-- [SDET Training: Selenium WebDriver, Java Project & Code Tests](https://www.udemy.com/certificate/UC-WKPJP1F8/) Udemy May 2019
-
-- [Interactivity with JavaScript](https://www.coursera.org/account/accomplishments/verify/MLJNRKGEZW2S) Coursera August 2018
-- [Python Data Structures](https://www.coursera.org/account/accomplishments/verify/FCUD8KRYTLW7) Coursera July 2018
-
-- [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/B6L9YYPKSJXA) Coursera November 2017
