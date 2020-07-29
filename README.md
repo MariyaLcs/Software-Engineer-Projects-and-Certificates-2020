@@ -32,9 +32,9 @@
 
 # Full-Stack Projects
 
-- [Rainbowhaven Site](https://techreturnersmarchcohort2020.github.io/rainbowhaven-react-frontend/) - [Rainbowhaven Repo](https://github.com/techReturnersMarchCohort2020/rainbowhaven-react-frontend) - Built with React, Bootstrap4, moment, NodeJS, Axios, AWS Services, MySQL, Serverless.
+- [Rainbowhaven Site](https://techreturnersmarchcohort2020.github.io/rainbowhaven-react-frontend/) - [Rainbowhaven Repo](https://github.com/techReturnersMarchCohort2020/rainbowhaven-react-frontend) - Final project built with React, Bootstrap4, moment, NodeJS, Axios, AWS Services, MySQL, Serverless.
 - [ToDo App](https://github.com/MariyaLcs/todo-react-applictaion/) - [ToDo Repo](https://mariyalcs.github.io/todo-react-applictaion/) - Built with React, Bootstrap4, moment, NodeJS, Axios, AWS Services, MySQL, Serverless.
-- [YelpCamp Site](https://github.com/MariyaLcs/YelpCamp) - [YelpCamp Repo](https://camprest.herokuapp.com/) - Built with Bootstrap4, express, passport, flash, MongoDB, mongoose, bodyParser, Heroku
+- [YelpCamp Site](https://github.com/MariyaLcs/YelpCamp) - [YelpCamp Repo](https://camprest.herokuapp.com/) - Final project built with Bootstrap4, express, passport, flash, MongoDB, mongoose, bodyParser, Heroku
 - [Newsletter Signup Site](https://boiling-anchorage-40172.herokuapp.com/) - [Newsletter Signup Repo](https://github.com/MariyaLcs/Newsletter-Signup) - Built with Heroku, express, bodyParser, API with mailchimp
 - [Monsters Rolodex Site](https://monsters-project1.herokuapp.com/) - [Monsters Rolodex Repo](https://github.com/MariyaLcs/monsters-rolodex) - Built with React, Heroku, API with robohash.org
 
