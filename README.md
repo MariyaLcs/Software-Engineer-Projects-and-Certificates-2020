@@ -12,7 +12,7 @@
 
 - [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/verify/B6L9YYPKSJXA) Coursera November 2017
 
-# Frond-End and JavaScript Projects
+# Frond-End and JavaScript Projects 
 
 - [Dad Joke App Site](https://mariyalcs.github.io/dad-joke/) - [Dad Joke App Repo](https://github.com/MariyaLcs/dad-joke) - Built with React, express, axios, API with icanhazdadjoke.com
 - [Delivery App Site](https://mariyalcs.github.io/delivery/) - [Delivery App Repo](https://github.com/MariyaLcs/delivery) - Built with React, Bootstrap4, moment, axios
@@ -31,7 +31,7 @@
 - [Maze Game Site](https://mariyalcs.github.io/maze_game/) - [Maze Game Repo](https://github.com/MariyaLcs/maze_game) - Built with JavaScript and MatterJS
 - [Color Game Site](https://mariyalcs.github.io/color_game/) - [Color Game Repo](https://github.com/MariyaLcs/color_game) - Built with JavaScript
 
-# Full-Stack Projects
+# Full-Stack Projects / Final projects for study courses
 
 - [Rainbowhaven Site](https://techreturnersmarchcohort2020.github.io/rainbowhaven-react-frontend/) - [Rainbowhaven Repo](https://github.com/techReturnersMarchCohort2020/rainbowhaven-react-frontend) - Final project built with React, Bootstrap4, moment, NodeJS, Axios, AWS Services, MySQL, Serverless.
 - [ToDo App](https://github.com/MariyaLcs/todo-react-applictaion/) - [ToDo Repo](https://mariyalcs.github.io/todo-react-applictaion/) - Built with React, Bootstrap4, moment, NodeJS, Axios, AWS Services, MySQL, Serverless.
