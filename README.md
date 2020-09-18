@@ -16,8 +16,8 @@
 
 - [Dad Joke App Site](https://mariyalcs.github.io/dad-joke/) - [Dad Joke App Repo](https://github.com/MariyaLcs/dad-joke) - Built with React, express, axios, API with icanhazdadjoke.com
 - [Delivery App Site](https://mariyalcs.github.io/delivery/) - [Delivery App Repo](https://github.com/MariyaLcs/delivery) - Built with React, Bootstrap4, moment, axios
-- [Movie Fight Site](https://github.com/MariyaLcs/movie_battle) - [Movie Fight Repo](https://mariyalcs.github.io/movie_battle/) - Built with React, axios, API with omdbapi.com
-- [Yahtzee Game Site](https://github.com/MariyaLcs/yahtzee) - [Yahtzee Game Repo](https://mariyalcs.github.io/yahtzee/) - Built with React and JavaScript
+- [Movie Fight Site](https://mariyalcs.github.io/movie_battle/) - [Movie Fight Repo](https://github.com/MariyaLcs/movie_battle) - Built with React, axios, API with omdbapi.com
+- [Yahtzee Game Site](https://mariyalcs.github.io/yahtzee/) - [Yahtzee Game Repo](https://github.com/MariyaLcs/yahtzee) - Built with React and JavaScript
 - [Hangman Game Site](https://mariyalcs.github.io/hangman/) - [Hangman Game Repo](https://github.com/MariyaLcs/hangman) - Built with React and JavaScript
 - [Lights Out Game Site](https://mariyalcs.github.io/lights_out/) - [Lights Out Game Repo](https://github.com/MariyaLcs/lights_out/) - Built with React and JavaScript
 
