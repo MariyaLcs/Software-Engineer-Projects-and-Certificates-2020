@@ -38,6 +38,7 @@
 - [Secret Message Site](https://mariyalcs.github.io/secret_message/) - [Secret Message Repo](https://github.com/MariyaLcs/secret_message) - Built with JavaScript
 - [Maze Game Site](https://mariyalcs.github.io/maze_game/) - [Maze Game Repo](https://github.com/MariyaLcs/maze_game) - Built with JavaScript and MatterJS
 - [Color Game Site](https://mariyalcs.github.io/color_game/) - [Color Game Repo](https://github.com/MariyaLcs/color_game) - Built with JavaScript
+- [Simon Game](https://mariyalcs.github.io/Simon-Game/) - [Simon Game Repo](https://github.com/MariyaLcs/Simon-Game) - Built with JavaScript, jQuery
 
 # Bootstrap and HTML/CSS Projects
 
