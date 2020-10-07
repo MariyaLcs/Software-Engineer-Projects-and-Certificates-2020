@@ -13,8 +13,6 @@
 ## JavaScript Projects
 
 - [Hangman Game Site](https://mariyalcs.github.io/hangman/) - [Hangman Game Repo](https://github.com/MariyaLcs/hangman) - Built with React and JavaScript
-- [Simon Game Site](https://mariyalcs.github.io/Simon-Game/) - [Simon Game Repo](https://github.com/MariyaLcs/Simon-Game) - Built with JavaScript and jQuery
-- [Drum Site](https://mariyalcs.github.io/drum/) - [Drum Repo](https://github.com/MariyaLcs/drum) - Built with JavaScript
 - [Rock Paper Scissors Site](https://mariyalcs.github.io/rock-paper-scissors/) - [Rock Paper Scissors Repo](https://github.com/MariyaLcs/rock-paper-scissors) - Built with JavaScript
 - [Color Game Site](https://mariyalcs.github.io/color_game/) - [Color Game Repo](https://github.com/MariyaLcs/color_game) - Built with JavaScript
 
@@ -27,7 +25,8 @@
 ## Working with the ReactJS and jQuery libraries
 
 - [Delivery App Site](https://mariyalcs.github.io/delivery/) - [Delivery App Repo](https://github.com/MariyaLcs/delivery) - Built with React, Bootstrap4, moment, axios
-- [Simon Game](https://mariyalcs.github.io/Simon-Game/) - [Simon Game Repo](https://github.com/MariyaLcs/Simon-Game) - Built with jQuery
+- [Simon Game Site](https://mariyalcs.github.io/Simon-Game/) - [Simon Game Repo](https://github.com/MariyaLcs/Simon-Game) - Built with JavaScript and jQuery
+- [Drum Site](https://mariyalcs.github.io/drum/) - [Drum Repo](https://github.com/MariyaLcs/drum) - Built with JavaScript and jQuery
 
 ## Utilising HTML / CSS with responsive layouts and use of Bootstrap 4 library
 
