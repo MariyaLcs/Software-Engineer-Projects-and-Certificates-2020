@@ -10,6 +10,10 @@
 - [Ultimate AWS Certified Cloud Practitioner - 2020](https://www.udemy.com/certificate/UC-c832779c-b806-4bbf-96be-10c9068952ed/) Udemy June 2020
 - [The Web Developer Bootcamp](https://www.udemy.com/certificate/UC-849e4955-b981-474f-b047-90040fab08ca/) Udemy February 2020
 
+# Mini courses
+
+- [SAFECode Training](https://safecode.org/training/) SAFECode free course, December 2020
+
 ## JavaScript Projects
 
 - [Hangman Game Site](https://mariyalcs.github.io/hangman/) - [Hangman Game Repo](https://github.com/MariyaLcs/hangman) - Built with React and JavaScript
