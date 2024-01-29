@@ -1,3 +1,9 @@
+## Working with the ReactJS and jQuery libraries
+
+- [Delivery App Site](https://mariyalcs.github.io/delivery/) - [Delivery App Repo](https://github.com/MariyaLcs/delivery) - Built with React, Bootstrap4, moment, axios
+- [Simon Game Site](https://mariyalcs.github.io/Simon-Game/) - [Simon Game Repo](https://github.com/MariyaLcs/Simon-Game) - Built with JavaScript and jQuery
+- [Drum Site](https://mariyalcs.github.io/drum/) - [Drum Repo](https://github.com/MariyaLcs/drum) - Built with JavaScript and jQuery
+
 ## JavaScript Projects
 
 - [Hangman Game Site](https://mariyalcs.github.io/hangman/) - [Hangman Game Repo](https://github.com/MariyaLcs/hangman) - Built with React and JavaScript
@@ -8,13 +14,6 @@
 
 - [Youtube clone Site](https://mariyalcs.github.io/youtube-search/) - [Youtube clone Repo](https://github.com/MariyaLcs/youtube-search) - Built with React, axios, API with https://console.developers.google.com/
 - [Dad Joke App Site](https://mariyalcs.github.io/dad-joke/) - [Dad Joke App Repo](https://github.com/MariyaLcs/dad-joke) - Built with React, express, axios, API with https://icanhazdadjoke.com
-- [Movie Fight Site](https://mariyalcs.github.io/movie_battle/) - [Movie Fight Repo](https://github.com/MariyaLcs/movie_battle) - Built with React, axios, API with https://omdbapi.com
-
-## Working with the ReactJS and jQuery libraries
-
-- [Delivery App Site](https://mariyalcs.github.io/delivery/) - [Delivery App Repo](https://github.com/MariyaLcs/delivery) - Built with React, Bootstrap4, moment, axios
-- [Simon Game Site](https://mariyalcs.github.io/Simon-Game/) - [Simon Game Repo](https://github.com/MariyaLcs/Simon-Game) - Built with JavaScript and jQuery
-- [Drum Site](https://mariyalcs.github.io/drum/) - [Drum Repo](https://github.com/MariyaLcs/drum) - Built with JavaScript and jQuery
 
 ## Utilising HTML / CSS with responsive layouts and use of Bootstrap 4 library
 
