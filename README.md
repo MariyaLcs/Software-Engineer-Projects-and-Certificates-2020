@@ -12,8 +12,8 @@
 
 ## Receiving and processing data from third party APIs
 
-- [Youtube clone Site](https://mariyalcs.github.io/youtube-search/) - [Youtube clone Repo](https://github.com/MariyaLcs/youtube-search) - Built with React, axios, API with https://console.developers.google.com/
-- [Dad Joke App Site](https://mariyalcs.github.io/dad-joke/) - [Dad Joke App Repo](https://github.com/MariyaLcs/dad-joke) - Built with React, express, axios, API with https://icanhazdadjoke.com
+- [Youtube clone Site](https://mariyalcs.github.io/youtube-search/) - [Youtube clone Repo](https://github.com/MariyaLcs/youtube-search) - Built with React, axios
+- [Dad Joke App Site](https://mariyalcs.github.io/dad-joke/) - [Dad Joke App Repo](https://github.com/MariyaLcs/dad-joke) - Built with React, express, axios
 
 ## Utilising HTML / CSS with responsive layouts and use of Bootstrap 4 library
 
