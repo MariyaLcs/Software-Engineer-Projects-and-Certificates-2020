@@ -1,19 +1,3 @@
-# Full-Stack Projects
-
-- [Rainbowhaven Site](https://techreturnersmarchcohort2020.github.io/rainbowhaven-react-frontend/) - [Rainbowhaven Repo](https://github.com/techReturnersMarchCohort2020/rainbowhaven-react-frontend) - Final project built with React, Bootstrap4, moment, NodeJS, Axios, AWS Services, MySQL, Serverless.
-- [YelpCamp Site](https://github.com/MariyaLcs/YelpCamp) - [YelpCamp Repo](https://camprest.herokuapp.com/) - Final project built with Bootstrap4, express, passport, flash, MongoDB, mongoose, bodyParser, Heroku
-
-# Certificates
-
-- [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/certificate/UC-109790b5-cc3d-4684-b925-e9333e151e5e/) Udemy September 2020
-- [The Advanced Web Developer Bootcamp](https://www.udemy.com/certificate/UC-cef3f5f9-87b9-44dd-904b-1b4ad52ca316/) Udemy July 2020
-- [Ultimate AWS Certified Cloud Practitioner - 2020](https://www.udemy.com/certificate/UC-c832779c-b806-4bbf-96be-10c9068952ed/) Udemy June 2020
-- [The Web Developer Bootcamp](https://www.udemy.com/certificate/UC-849e4955-b981-474f-b047-90040fab08ca/) Udemy February 2020
-
-# Mini courses
-
-- [SAFECode Training](https://safecode.org/training/) SAFECode free course, December 2020
-
 ## JavaScript Projects
 
 - [Hangman Game Site](https://mariyalcs.github.io/hangman/) - [Hangman Game Repo](https://github.com/MariyaLcs/hangman) - Built with React and JavaScript
